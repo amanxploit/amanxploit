@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👾 0xAman — Coder | Hacker | Builder
 
-<!--
-**amanxploit/amanxploit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> “In a world full of bugs, be the patch.”
 
-Here are some ideas to get you started:
+### 🧠 About Me
+- 💻 Full-Stack Developer & Ethical Hacker  
+- 🧩 Passion for solving complex problems with clean, efficient code  
+- ⚙️ Experienced in **Android, Flutter, React, React Native, Node.js, PHP, Python, MySQL, MongoDB**, and more  
+- 🌐 Skilled in **HTML, CSS, JavaScript, Bootstrap, Tailwind CSS**  
+- 🛠️ Constantly exploring new frameworks and system-level security concepts  
+- 🔒 Love to build *secure* and *scalable* digital solutions  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack
+`Android` | `Flutter` | `React` | `React Native` | `Node.js` | `Python` |  
+`PHP` | `MySQL` | `MongoDB` | `HTML` | `CSS` | `JavaScript` |  
+`Bootstrap` | `Tailwind CSS` | `SQL` | `Cybersecurity`
+
+### ⚡ Current Focus
+> Building secure, scalable, and elegant systems.  
+> Exploring AI integrations & ethical hacking challenges.  
+
+---
+
+### 💬 Connect
+- 🌍 Portfolio: *coming soon*  
+- 📷 Instagram: [@aman.coder.py](https://instagram.com/aman.coder.py)  
+- 🧑‍💻 GitHub: [github.com/0xaman](https://github.com/0xaman)
+
+> _"Code is a weapon. Use it wisely."_  
