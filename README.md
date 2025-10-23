@@ -24,6 +24,6 @@
 ### 💬 Connect
 - 🌍 Portfolio: *coming soon*  
 - 📷 Instagram: [@aman.coder.py](https://instagram.com/aman.coder.py)  
-- 🧑‍💻 GitHub: [github.com/0xaman](https://github.com/amanxploit)
+- 🧑‍💻 GitHub: [github.com/amanxploit](https://github.com/amanxploit)
 
 > _"Code is a weapon. Use it wisely."_  
