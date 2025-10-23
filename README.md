@@ -1,4 +1,4 @@
-# 👾 0xAman — Coder | Hacker | Builder
+# 👾 amanxploit — Coder | Hacker | Builder
 
 > “In a world full of bugs, be the patch.”
 
@@ -24,6 +24,6 @@
 ### 💬 Connect
 - 🌍 Portfolio: *coming soon*  
 - 📷 Instagram: [@aman.coder.py](https://instagram.com/aman.coder.py)  
-- 🧑‍💻 GitHub: [github.com/0xaman](https://github.com/0xaman)
+- 🧑‍💻 GitHub: [github.com/0xaman](https://github.com/amanxploit)
 
 > _"Code is a weapon. Use it wisely."_  
